@@ -462,6 +462,7 @@ span{
 @media (max-width: 375px) {
   
     body{
+        text-align:center;
         padding: 25%;
     }
     .btn{
