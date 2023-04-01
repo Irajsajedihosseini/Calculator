@@ -17,7 +17,7 @@ body{
     width: 400px;
 }
 .numbers-row,.display-row,.them-row{
-    margin:12px auto;
+    margin:12px 0;
     border-radius: 0 ;
     position: relative;
     bottom: 1.97%;
