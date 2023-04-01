@@ -1,5 +1,5 @@
 body{
-    background-color: hsl(225, 21%, 49%);
+   background-color:  	hsl(225, 21%, 49%);
     text-align: center;
     font-family: 'League Spartan', sans-serif;
     font-size: 1.5rem;;
@@ -17,7 +17,7 @@ body{
     width: 400px;
 }
 .numbers-row,.display-row,.them-row{
-    margin:12px 0;
+    margin:12px auto;
     border-radius: 0 ;
     position: relative;
     bottom: 1.97%;
@@ -45,7 +45,7 @@ body{
      
 }
 .main-container{
-    margin: 4% 36.8%; 
+    margin: 4% auto; 
     background:rgb(143, 150, 151) ;
     border: solid 4px black;
     border-radius: 12px;
@@ -462,7 +462,6 @@ span{
 @media (max-width: 375px) {
   
     body{
-        text-align:center;
         padding: 25%;
     }
     .btn{
