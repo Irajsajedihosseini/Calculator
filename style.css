@@ -492,5 +492,10 @@ span{
     }
     .main-container{
         width: 340px;
+        position: relative;
+        right: 85px;
+    }
+    .numbers-row,.display-row,.them-row{
+       position: relative;
     }
 }
